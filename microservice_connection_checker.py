@@ -56,4 +56,4 @@ if __name__ == '__main__':
         test_microservices()
         print("\n**********  Will now attempt to TCP ping the databases or other services **********\n")
         test_otherservices()
-        input("\nPress enter to exit...")
+    input("\nPress enter to exit...")
