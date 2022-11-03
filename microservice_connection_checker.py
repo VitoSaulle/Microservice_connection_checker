@@ -54,6 +54,6 @@ if __name__ == '__main__':
         print("\nConfiguration loaded successfully...\n")
         print("**********  Will now attempt to TCP ping microservices  **********\n")
         test_microservices()
-        print("\n**********  Will now attempt to TCP ping the dabases or other services **********\n")
+        print("\n**********  Will now attempt to TCP ping the databases or other services **********\n")
         test_otherservices()
         input("\nPress enter to exit...")
