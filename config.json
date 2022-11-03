@@ -1,0 +1,13 @@
+{
+    "HOST": "127.0.0.1",
+    "MICROSERVICES": {
+        "Microserice_1": 8080,
+        "Microserice_2": 8070,
+        "Microserice_3": 8060
+    },
+    "OTHERSERVICES": {
+        "Zookeeper": 2181,
+        "Postgres": 5432,
+        "MongoDB": 27017
+    }
+}
